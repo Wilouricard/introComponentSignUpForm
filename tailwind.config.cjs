@@ -2,7 +2,8 @@
 module.exports = {
   content: ["./src/**/*.{html,js,jsx}", "index.html"],
   theme: {
-    extend: {},
+    extend: {
+    },
     colors: {
       'red': 'hsl(0, 100%, 74%)',
       'green': 'hsl(154, 59%, 51%)',

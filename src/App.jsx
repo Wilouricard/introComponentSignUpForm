@@ -6,8 +6,7 @@ import Form from './components/Form'
 function App() {
 
   return (
-    <main className='min-h-screen bg-red px-12 pt-16 leading-7 pb-14'>
-      {/* <img src="public\images\bg-intro-mobile.png" alt="" className='absolute object-cover'/> */}
+    <main className='min-h-screen px-12 pt-16 leading-7 pb-14 bg-red'>
       <Text />
       <Trybox />
       <Form />
