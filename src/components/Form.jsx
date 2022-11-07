@@ -49,7 +49,7 @@ export default function Form() {
             src="\images\icon-error.svg"
             alt=""
             id="error-icon2"
-            className=" translate-x-60 -translate-y-14 hidden"
+            className="translate-x-60 -translate-y-14 hidden md:translate-x-[500px]"
           />
         </i>
         <input
@@ -68,7 +68,7 @@ export default function Form() {
             src="\images\icon-error.svg"
             alt=""
             id="error-icon"
-            className=" translate-x-60 -translate-y-14 hidden"
+            className=" translate-x-60 -translate-y-14 hidden md:translate-x-[500px]"
           />
         </i>
         <input
@@ -87,7 +87,7 @@ export default function Form() {
             src="\images\icon-error.svg"
             alt=""
             id="error-icon3"
-            className=" translate-x-60 -translate-y-14 hidden"
+            className=" translate-x-60 -translate-y-14 hidden md:translate-x-[500px]"
           />
         </i>
         <input
@@ -106,7 +106,7 @@ export default function Form() {
             src="\images\icon-error.svg"
             alt=""
             id="error-icon4"
-            className=" translate-x-60 -translate-y-14 hidden"
+            className=" translate-x-60 -translate-y-14 hidden md:translate-x-[500px]"
           />
         </i>
         <button className="uppercase bg-green py-3 text-white tracking-widest rounded-lg shadow-inner" id="submit">
